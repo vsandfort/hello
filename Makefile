@@ -1,2 +1,2 @@
 results:
-	python3 hello.py > $@
+	python3 goodbye.py > $@
