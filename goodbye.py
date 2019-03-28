@@ -7,5 +7,5 @@ people = [
 ]
 
 for person in people:
-  print("Hello, " + person + "!")
+  print("Goodbye, " + person + "!")
 
